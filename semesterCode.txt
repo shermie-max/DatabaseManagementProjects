@@ -1,0 +1,5 @@
+F86 1986 Fall
+Sp87 1987 Spring
+Su87 1987 Summer
+F87 1987 Fall
+S87 1987 Spring

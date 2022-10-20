@@ -1,0 +1,6 @@
+CSC 14400 Computer_Science_I 4
+CSC 14400 Computer_Science_I 4
+CSC 24400 Computer_Science_II 4
+MTH 27100 Calculus_I 5
+CSC 30500 Principles_of_Database_Systems 3
+CSC 36000 Algorithms 3
